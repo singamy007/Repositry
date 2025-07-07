@@ -5,8 +5,8 @@ from sklearn.tree import DecisionTreeClassifier
 # Labels: 'Tension', 'Migraine', 'Cluster', 'Sinus'
 X = [
     [0, 0, 0, 0, 0, 0, 0, 0, 0],  # No headache
-    [1, 0, 0, 0, 0, 0, 0, 0, 1],  # Tension
-    [0, 1, 1, 1, 1, 0, 0, 0, 1],  # Migraine
+    [1, 0, 0, 0, 0, 0, 0, 0, 1],  # Tensionhh
+    [0, 1, 1, 1, 1, 0, 0, 0, 1],  # Migrain
     [0, 0, 0, 0, 1, 1, 0, 1, 0],  # Cluster
     [0, 0, 0, 0, 0, 1, 1, 0, 1],  # Sinus
 ]
